@@ -27,23 +27,9 @@
 - 💼 Mobile App Developer and Consultant at [Sibel Health](https://www.sibelhealth.com/)  (2021-2022)
 - 💼 Android Developer (Team Lead) at [Invictus Solutions Pvt Ltd](https://invictussolutions.co/)  (2019-2021)
 - 💼 Android Developer at [DigiKhata](https://digikhata.pk/)  (2018-2019)
+- 💼 Android Developer at Micrologix (2018-2018)
+- 💚 Level 2 Seller at Fiverr as a Mobile App developer
+- 💚 Android App developer Freelancer at Upwork
 
 
-
-
-I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 10,000 members.
-
-My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.
-
-While I am not developing, I like to spend time with my wife and children.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
