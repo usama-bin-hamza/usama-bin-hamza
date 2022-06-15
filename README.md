@@ -8,6 +8,7 @@
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
+
 ### I am Usama Bin Hamza 💚
 
 ✅ Self-directed and motivated technical project developer with 5 years of experience in creating user-friendly & message-focused Mobile App design & development at Upwork, Fiver & DevHouse. I have excellent knowledge & ✊ a complete understanding of the whole process of ⭐mobile app development (from concept to release). I have created many apps, all by myself, code and design. I worked on more than 100+ Projects both long & short term. I am also excellent with Version Controlling and Project Management. 
