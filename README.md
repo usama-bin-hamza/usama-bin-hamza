@@ -44,7 +44,40 @@
 
 ✅ If you need help in the field of Android or if you have trouble learning and advancing any technology, You may contact me at any time to discuss job requirements anytime! I'll be happy to help with a consultation.🚀
 
+<div align="center">
+<p align="center">Let's connect!</p>
+  
+  <a href="https://www.linkedin.com/in/usama-bin-hamza-0349b8197/">
+    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+</a>
+<a href="https://t.me/uxamahamza">
+    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
+</a>
+   
 
+<a href="mailto:usama1122malik@gmail.com">
+    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=923132694268">
+    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
+</a>
+  
+  
+  
+
+<!-- <a href="https://www.facebook.com/evilgenius786/">
+    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
+</a> -->
+
+<!-- <a href="https://www.fiverr.com/muhammadhassan7">
+    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
+</a> -->
+
+<!-- <a href="https://www.upwork.com/freelancers/muhammadhassan82">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
+</a> -->
+</div>
 
 
 
