@@ -38,15 +38,15 @@
 - 💼 Android Developer (Team Lead) at [Invictus Solutions Pvt Ltd](https://invictussolutions.co/)  (2019-2021)
 - 💼 Android Developer at [DigiKhata](https://digikhata.pk/)  (2018-2019)
 - 💼 Android Developer at Micrologix (2018-2018)
-- 💚 Level 2 Seller at Fiverr as a Mobile App developer
-- 💚 Android App developer Freelancer at Upwork
+- 💚 Level 2 Seller at Fiverr as a Mobile App developer (2019-Now)
+- 💚 Android App developer Freelancer at Upwork  (2021-Now)
 
-# Let's connect
+# Let's Connect
 
 ✅ If you need help in the field of Android or if you have trouble learning and advancing any technology, You may contact me at any time to discuss job requirements anytime! I'll be happy to help with a consultation.🚀
 
 <div align="center">
-<p align="center">Let's connect!</p>
+<p align="center">Let's Connect!</p>
   
   <a href="https://www.linkedin.com/in/usama-bin-hamza-0349b8197/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
