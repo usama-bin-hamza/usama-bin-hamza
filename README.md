@@ -1,6 +1,7 @@
-Android Kotlin Dart Python Flutter Android Studio Git
+# Greetings Folks!
+### I am Usama Bin Hamza 💚
 
-### Hi there 👋
+
 
 
 - 🔭 I’m currently working on ...
